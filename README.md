@@ -1,4 +1,4 @@
-# hola-mundo
-mi primer repository de prueba..
+# hola mundo 
+mi primer repository
 
 autor: lizeth quijada
